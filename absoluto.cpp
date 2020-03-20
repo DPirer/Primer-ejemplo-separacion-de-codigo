@@ -1,4 +1,5 @@
 // Funciones
+#include "header.h"
 template <class TIPOD>
 TIPOD absoluto(TIPOD numero){
 	if (numero < 0){
